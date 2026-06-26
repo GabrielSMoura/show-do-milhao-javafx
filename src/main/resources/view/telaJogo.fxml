@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+
+<AnchorPane prefHeight="600"
+            prefWidth="800"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.example.showmilhao.controller.TelaJogoController"
+            stylesheets="@../css/style.css">
+
+    <children>
+
+        <ImageView fitWidth="800" fitHeight="600">
+            <image>
+                <Image url="@../imagens/telaJogo.png"/>
+            </image>
+        </ImageView>
+
+        <!-- APRESENTADOR -->
+
+        <ImageView fx:id="apresentador"
+                   layoutX="-135"
+                   layoutY="290"
+                   fitWidth="480"
+                   fitHeight="290"
+                   preserveRatio="true"
+                   smooth="true"
+                   pickOnBounds="true"/>
+
+        <ImageView fx:id="iconePerguntaExtra"
+                   layoutX="310"
+                   layoutY="72"
+                   fitWidth="350"
+                   fitHeight="75"
+                   preserveRatio="true"
+                   visible="false">
+
+            <image>
+                <Image url="@../imagens/perguntaExtra.png"/>
+            </image>
+
+        </ImageView>
+
+        <ImageView fx:id="balaoMensagem"
+                   layoutX="25"
+                   layoutY="235"
+                   fitWidth="100"
+                   preserveRatio="true"
+                   visible="false">
+
+            <image>
+                <Image url="@../imagens/balao.png"/>
+            </image>
+
+        </ImageView>
+
+        <Label fx:id="campoMensagemBonus"
+               layoutX="45"
+               layoutY="248"
+               prefWidth="75"
+               wrapText="true"
+               alignment="CENTER"
+               styleClass="texto-balao"/>
+
+        <Label fx:id="campoMensagem"
+               layoutX="45"
+               layoutY="248"
+               prefWidth="70"
+               wrapText="true"
+               alignment="CENTER"
+               styleClass="texto-balao"/>
+
+        <!-- PERGUNTA -->
+
+        <Label fx:id="campoPergunta"
+               layoutX="157"
+               layoutY="160"
+               prefWidth="420"
+               wrapText="true"
+               styleClass="pergunta-jogo"/>
+
+        <!-- ALTERNATIVAS -->
+
+        <Label fx:id="alternativaA"
+               layoutX="180"
+               layoutY="275"
+               prefWidth="390"
+               alignment="CENTER"
+               styleClass="texto-jogo"
+               onMouseClicked="#clicarA"/>
+
+        <Label fx:id="alternativaB"
+               layoutX="180"
+               layoutY="324"
+               prefWidth="390"
+               alignment="CENTER"
+               styleClass="texto-jogo"
+               onMouseClicked="#clicarB"/>
+
+        <Label fx:id="alternativaC"
+               layoutX="180"
+               layoutY="372"
+               prefWidth="390"
+               alignment="CENTER"
+               styleClass="texto-jogo"
+               onMouseClicked="#clicarC"/>
+
+        <Label fx:id="alternativaD"
+               layoutX="180"
+               layoutY="419"
+               prefWidth="390"
+               alignment="CENTER"
+               styleClass="texto-jogo"
+               onMouseClicked="#clicarD"/>
+
+        <!-- VALOR PERGUNTA -->
+
+        <Label fx:id="campoValorPergunta"
+               layoutX="630"
+               layoutY="180"
+               styleClass="texto-jogo"/>
+
+        <!-- PREMIO -->
+
+        <Label fx:id="campoPremio"
+               layoutX="630"
+               layoutY="285"
+               styleClass="texto-jogo"/>
+
+        <!-- CHOCOLATES -->
+
+        <Label fx:id="campoExtras"
+               layoutX="630"
+               layoutY="390"
+               styleClass="texto-jogo"/>
+
+
+        <!-- AJUDA UNIVERSITARIOS -->
+
+        <Label layoutX="215"
+               layoutY="476"
+               prefWidth="178"
+               prefHeight="70"
+               alignment="CENTER"
+               styleClass="botao-jogo"
+               onMouseClicked="#usarUniversitarios"/>
+
+        <Label fx:id="campoUniversitarios"
+               layoutX="180"
+               layoutY="490"
+               text="2"
+               styleClass="texto-jogo"/>
+
+        <!-- PULAR -->
+
+        <Label layoutX="410"
+               layoutY="490"
+               prefWidth="178"
+               prefHeight="70"
+               alignment="CENTER"
+               styleClass="botao-jogo"
+               onMouseClicked="#pularPergunta"/>
+
+        <Label fx:id="campoPular"
+               layoutX="607"
+               layoutY="490"
+               text="2"
+               styleClass="texto-jogo"/>
+
+        <!-- FECHAR JOGO -->
+
+        <ImageView
+                layoutX="740"
+                layoutY="15"
+                fitWidth="50"
+                fitHeight="50"
+                preserveRatio="true"
+                onMouseClicked="#fecharJogo">
+
+            <image>
+                <Image url="@../imagens/fechar.png"/>
+            </image>
+
+        </ImageView>
+
+    </children>
+
+</AnchorPane>

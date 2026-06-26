@@ -1,0 +1,1212 @@
+{
+  "easy": [
+    {
+      "perguntas": "Qual linguagem estamos utilizando?",
+      "opcoes": {
+        "A": "Java",
+        "B": "Python",
+        "C": "C++",
+        "D": "Ruby"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual função é usada para exibir texto na tela em Python?",
+      "opcoes": {
+        "A": "echo()",
+        "B": "print()",
+        "C": "show()",
+        "D": "write()"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual símbolo é usado para comentários de uma linha em Python?",
+      "opcoes": {
+        "A": "//",
+        "B": "#",
+        "C": "--",
+        "D": "/*"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual tipo armazena números inteiros em Python?",
+      "opcoes": {
+        "A": "int",
+        "B": "string",
+        "C": "bool",
+        "D": "list"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual tipo armazena texto em Python?",
+      "opcoes": {
+        "A": "text",
+        "B": "char",
+        "C": "string",
+        "D": "str"
+      },
+      "resposta": "D"
+    },
+    {
+      "perguntas": "Qual valor booleano representa verdadeiro em Python?",
+      "opcoes": {
+        "A": "true",
+        "B": "True",
+        "C": "1",
+        "D": "yes"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual valor booleano representa falso em Python?",
+      "opcoes": {
+        "A": "False",
+        "B": "false",
+        "C": "0",
+        "D": "no"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual estrutura é usada para tomar decisões?",
+      "opcoes": {
+        "A": "loop",
+        "B": "print",
+        "C": "if",
+        "D": "import"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual estrutura repete código várias vezes?",
+      "opcoes": {
+        "A": "if",
+        "B": "for",
+        "C": "print",
+        "D": "input"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual função recebe dados do usuário?",
+      "opcoes": {
+        "A": "scan()",
+        "B": "read()",
+        "C": "input()",
+        "D": "get()"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual operador soma valores?",
+      "opcoes": {
+        "A": "+",
+        "B": "-",
+        "C": "*",
+        "D": "/"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual operador representa multiplicação?",
+      "opcoes": {
+        "A": "+",
+        "B": "x",
+        "C": "*",
+        "D": "%"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual estrutura cria uma lista?",
+      "opcoes": {
+        "A": "{}",
+        "B": "[]",
+        "C": "()",
+        "D": "<>"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual estrutura cria um dicionário?",
+      "opcoes": {
+        "A": "{}",
+        "B": "[]",
+        "C": "()",
+        "D": "<>"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual palavra cria uma função em Python?",
+      "opcoes": {
+        "A": "function",
+        "B": "def",
+        "C": "fun",
+        "D": "method"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual comando importa bibliotecas?",
+      "opcoes": {
+        "A": "include",
+        "B": "require",
+        "C": "import",
+        "D": "using"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual estrutura é usada para repetir enquanto uma condição for verdadeira?",
+      "opcoes": {
+        "A": "for",
+        "B": "loop",
+        "C": "while",
+        "D": "repeat"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual operador verifica igualdade?",
+      "opcoes": {
+        "A": "=",
+        "B": "==",
+        "C": "!=",
+        "D": "<>"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual operador significa diferente?",
+      "opcoes": {
+        "A": "!=",
+        "B": "==",
+        "C": "=",
+        "D": "><"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual função retorna o tamanho de uma lista?",
+      "opcoes": {
+        "A": "count()",
+        "B": "size()",
+        "C": "len()",
+        "D": "length()"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual estrutura armazena vários valores em ordem?",
+      "opcoes": {
+        "A": "list",
+        "B": "bool",
+        "C": "int",
+        "D": "float"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual palavra é usada para sair de um loop?",
+      "opcoes": {
+        "A": "exit",
+        "B": "stop",
+        "C": "break",
+        "D": "return"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual palavra pula para a próxima repetição do loop?",
+      "opcoes": {
+        "A": "continue",
+        "B": "skip",
+        "C": "next",
+        "D": "pass"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual função converte texto para número inteiro?",
+      "opcoes": {
+        "A": "str()",
+        "B": "int()",
+        "C": "float()",
+        "D": "num()"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual função converte número para texto?",
+      "opcoes": {
+        "A": "str()",
+        "B": "int()",
+        "C": "text()",
+        "D": "string()"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual palavra define uma classe em Python?",
+      "opcoes": {
+        "A": "class",
+        "B": "object",
+        "C": "struct",
+        "D": "type"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual operador representa divisão?",
+      "opcoes": {
+        "A": "/",
+        "B": "*",
+        "C": "-",
+        "D": "+"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual operador representa resto da divisão?",
+      "opcoes": {
+        "A": "%",
+        "B": "/",
+        "C": "*",
+        "D": "//"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual operador faz divisão inteira?",
+      "opcoes": {
+        "A": "/",
+        "B": "//",
+        "C": "%",
+        "D": "**"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual operador representa potência?",
+      "opcoes": {
+        "A": "^",
+        "B": "**",
+        "C": "pow",
+        "D": "^^"
+      },
+      "resposta": "B"
+    }
+  ],
+  "medio": [
+    {
+      "perguntas": "Qual função converte um número para ponto flutuante em Python?",
+      "opcoes": {
+        "A": "int()",
+        "B": "float()",
+        "C": "str()",
+        "D": "double()"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual palavra é usada para tratar exceções em Python?",
+      "opcoes": {
+        "A": "catch",
+        "B": "except",
+        "C": "error",
+        "D": "handle"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual palavra inicia um bloco de tratamento de erro?",
+      "opcoes": {
+        "A": "try",
+        "B": "error",
+        "C": "catch",
+        "D": "handle"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual método adiciona um elemento ao final de uma lista?",
+      "opcoes": {
+        "A": "add()",
+        "B": "append()",
+        "C": "insert()",
+        "D": "push()"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual método remove um elemento de uma lista pelo valor?",
+      "opcoes": {
+        "A": "delete()",
+        "B": "remove()",
+        "C": "pop()",
+        "D": "clear()"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual método remove um elemento da lista pelo índice?",
+      "opcoes": {
+        "A": "remove()",
+        "B": "delete()",
+        "C": "pop()",
+        "D": "drop()"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual método limpa todos os elementos de uma lista?",
+      "opcoes": {
+        "A": "clear()",
+        "B": "delete()",
+        "C": "removeAll()",
+        "D": "reset()"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual estrutura armazena pares chave-valor?",
+      "opcoes": {
+        "A": "list",
+        "B": "tuple",
+        "C": "dictionary",
+        "D": "set"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual método retorna todas as chaves de um dicionário?",
+      "opcoes": {
+        "A": "keys()",
+        "B": "values()",
+        "C": "items()",
+        "D": "get()"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual método retorna todos os valores de um dicionário?",
+      "opcoes": {
+        "A": "keys()",
+        "B": "values()",
+        "C": "items()",
+        "D": "get()"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual método retorna pares chave e valor de um dicionário?",
+      "opcoes": {
+        "A": "keys()",
+        "B": "values()",
+        "C": "items()",
+        "D": "pairs()"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual tipo de dado é imutável em Python?",
+      "opcoes": {
+        "A": "list",
+        "B": "tuple",
+        "C": "dict",
+        "D": "set"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual estrutura garante elementos únicos?",
+      "opcoes": {
+        "A": "list",
+        "B": "tuple",
+        "C": "set",
+        "D": "dict"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual palavra retorna um valor de uma função?",
+      "opcoes": {
+        "A": "break",
+        "B": "return",
+        "C": "yield",
+        "D": "stop"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual operador verifica se um valor está em uma lista?",
+      "opcoes": {
+        "A": "in",
+        "B": "has",
+        "C": "inside",
+        "D": "contains"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual operador verifica se um valor NÃO está em uma lista?",
+      "opcoes": {
+        "A": "not in",
+        "B": "!in",
+        "C": "no in",
+        "D": "out"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual função ordena uma lista?",
+      "opcoes": {
+        "A": "sort()",
+        "B": "order()",
+        "C": "arrange()",
+        "D": "organize()"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual função retorna uma lista ordenada sem modificar a original?",
+      "opcoes": {
+        "A": "sort()",
+        "B": "sorted()",
+        "C": "order()",
+        "D": "arrange()"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual biblioteca padrão é usada para funções matemáticas?",
+      "opcoes": {
+        "A": "math",
+        "B": "calc",
+        "C": "numbers",
+        "D": "numeric"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual função retorna o valor absoluto de um número?",
+      "opcoes": {
+        "A": "abs()",
+        "B": "absolute()",
+        "C": "mod()",
+        "D": "pos()"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual função gera uma sequência de números em loops?",
+      "opcoes": {
+        "A": "range()",
+        "B": "loop()",
+        "C": "sequence()",
+        "D": "numbers()"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual função retorna o maior valor de uma lista?",
+      "opcoes": {
+        "A": "max()",
+        "B": "largest()",
+        "C": "biggest()",
+        "D": "top()"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual função retorna o menor valor de uma lista?",
+      "opcoes": {
+        "A": "min()",
+        "B": "lowest()",
+        "C": "smallest()",
+        "D": "bottom()"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual função soma todos os elementos de uma lista?",
+      "opcoes": {
+        "A": "add()",
+        "B": "sum()",
+        "C": "total()",
+        "D": "plus()"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual palavra define herança em uma classe Python?",
+      "opcoes": {
+        "A": "extends",
+        "B": "inherits",
+        "C": "class Nome(Pai)",
+        "D": "superclass"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual método é chamado automaticamente ao criar um objeto?",
+      "opcoes": {
+        "A": "__start__",
+        "B": "__create__",
+        "C": "__init__",
+        "D": "__newobj__"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual palavra representa o próprio objeto dentro da classe?",
+      "opcoes": {
+        "A": "this",
+        "B": "self",
+        "C": "object",
+        "D": "me"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual biblioteca padrão é usada para gerar números aleatórios?",
+      "opcoes": {
+        "A": "random",
+        "B": "rand",
+        "C": "numbers",
+        "D": "chance"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual função do módulo random gera um número inteiro aleatório?",
+      "opcoes": {
+        "A": "random()",
+        "B": "randint()",
+        "C": "rand()",
+        "D": "number()"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual função abre arquivos em Python?",
+      "opcoes": {
+        "A": "file()",
+        "B": "open()",
+        "C": "read()",
+        "D": "load()"
+      },
+      "resposta": "B"
+    }
+  ],
+  "hard": [
+    {
+      "perguntas": "Qual estrutura permite criar listas de forma compacta em Python?",
+      "opcoes": {
+        "A": "list builder",
+        "B": "list comprehension",
+        "C": "list generator",
+        "D": "list creator"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual palavra-chave cria uma função geradora?",
+      "opcoes": {
+        "A": "yield",
+        "B": "return",
+        "C": "generate",
+        "D": "async"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual tipo de função retorna um iterador e produz valores sob demanda?",
+      "opcoes": {
+        "A": "lambda",
+        "B": "generator",
+        "C": "callback",
+        "D": "closure"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual função verifica o tipo de uma variável?",
+      "opcoes": {
+        "A": "typeof()",
+        "B": "kind()",
+        "C": "type()",
+        "D": "check()"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual função verifica se um objeto é instância de uma classe?",
+      "opcoes": {
+        "A": "instance()",
+        "B": "isinstance()",
+        "C": "typecheck()",
+        "D": "classof()"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual método especial representa uma string do objeto?",
+      "opcoes": {
+        "A": "__print__",
+        "B": "__string__",
+        "C": "__str__",
+        "D": "__repr__"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual método especial retorna a representação oficial do objeto?",
+      "opcoes": {
+        "A": "__repr__",
+        "B": "__show__",
+        "C": "__display__",
+        "D": "__object__"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual operador verifica identidade entre objetos?",
+      "opcoes": {
+        "A": "==",
+        "B": "===",
+        "C": "is",
+        "D": "equals"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual operador verifica se objetos NÃO são idênticos?",
+      "opcoes": {
+        "A": "!=",
+        "B": "is not",
+        "C": "<>",
+        "D": "not ="
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual estrutura permite executar código independente de erro?",
+      "opcoes": {
+        "A": "except",
+        "B": "finally",
+        "C": "catch",
+        "D": "end"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual função anônima pode ser criada em Python?",
+      "opcoes": {
+        "A": "lambda",
+        "B": "anon",
+        "C": "func",
+        "D": "definline"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual módulo padrão permite trabalhar com expressões regulares?",
+      "opcoes": {
+        "A": "regex",
+        "B": "pattern",
+        "C": "re",
+        "D": "match"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual módulo permite manipular caminhos de arquivos?",
+      "opcoes": {
+        "A": "os.path",
+        "B": "filesystem",
+        "C": "files",
+        "D": "dir"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual módulo permite interagir com o sistema operacional?",
+      "opcoes": {
+        "A": "system",
+        "B": "os",
+        "C": "platform",
+        "D": "machine"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual biblioteca padrão manipula datas e horas?",
+      "opcoes": {
+        "A": "time",
+        "B": "calendar",
+        "C": "datetime",
+        "D": "clock"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual palavra cria um decorador em Python?",
+      "opcoes": {
+        "A": "@",
+        "B": "#",
+        "C": "&",
+        "D": "*"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual estrutura permite definir funções dentro de funções?",
+      "opcoes": {
+        "A": "nested function",
+        "B": "internal function",
+        "C": "inline function",
+        "D": "sub function"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual conceito permite uma função lembrar variáveis do escopo externo?",
+      "opcoes": {
+        "A": "closure",
+        "B": "inheritance",
+        "C": "polymorphism",
+        "D": "binding"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual biblioteca padrão permite serializar objetos Python em JSON?",
+      "opcoes": {
+        "A": "pickle",
+        "B": "json",
+        "C": "marshal",
+        "D": "encode"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual função converte objeto Python para JSON?",
+      "opcoes": {
+        "A": "json.parse()",
+        "B": "json.dump()",
+        "C": "json.encode()",
+        "D": "json.convert()"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual função converte JSON para objeto Python?",
+      "opcoes": {
+        "A": "json.load()",
+        "B": "json.parse()",
+        "C": "json.decode()",
+        "D": "json.object()"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual biblioteca permite trabalhar com threads em Python?",
+      "opcoes": {
+        "A": "thread",
+        "B": "threading",
+        "C": "parallel",
+        "D": "multiprocess"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual biblioteca permite executar processos paralelos?",
+      "opcoes": {
+        "A": "threading",
+        "B": "parallel",
+        "C": "multiprocessing",
+        "D": "process"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual palavra cria uma função assíncrona?",
+      "opcoes": {
+        "A": "async",
+        "B": "await",
+        "C": "parallel",
+        "D": "future"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual palavra é usada para esperar uma operação assíncrona?",
+      "opcoes": {
+        "A": "wait",
+        "B": "await",
+        "C": "hold",
+        "D": "pause"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual módulo padrão executa código Python como string?",
+      "opcoes": {
+        "A": "run()",
+        "B": "eval()",
+        "C": "exec()",
+        "D": "compile()"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual função avalia expressões Python retornando resultado?",
+      "opcoes": {
+        "A": "exec()",
+        "B": "eval()",
+        "C": "run()",
+        "D": "interpret()"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual estrutura cria um conjunto imutável em Python?",
+      "opcoes": {
+        "A": "frozenset",
+        "B": "fixedset",
+        "C": "immutableset",
+        "D": "constset"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual função retorna um iterador de pares índice e valor?",
+      "opcoes": {
+        "A": "enumerate()",
+        "B": "index()",
+        "C": "pairs()",
+        "D": "zip()"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual função combina elementos de múltiplas listas em pares?",
+      "opcoes": {
+        "A": "pair()",
+        "B": "join()",
+        "C": "zip()",
+        "D": "merge()"
+      },
+      "resposta": "C"
+    }
+  ],
+  "expert": [
+    {
+      "perguntas": "Qual método especial é chamado ao criar uma nova instância antes do __init__?",
+      "opcoes": {
+        "A": "__start__",
+        "B": "__create__",
+        "C": "__new__",
+        "D": "__build__"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual objeto controla o comportamento de acesso a atributos em classes?",
+      "opcoes": {
+        "A": "decorators",
+        "B": "descriptors",
+        "C": "annotations",
+        "D": "iterators"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual método especial permite tornar um objeto iterável?",
+      "opcoes": {
+        "A": "__iter__",
+        "B": "__loop__",
+        "C": "__nextable__",
+        "D": "__iterate__"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual método especial retorna o próximo elemento de um iterador?",
+      "opcoes": {
+        "A": "__continue__",
+        "B": "__step__",
+        "C": "__next__",
+        "D": "__forward__"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual exceção é lançada quando um iterador termina?",
+      "opcoes": {
+        "A": "IterationEnd",
+        "B": "StopIteration",
+        "C": "EndLoop",
+        "D": "IteratorStop"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual biblioteca padrão permite inspeção de objetos em tempo de execução?",
+      "opcoes": {
+        "A": "inspect",
+        "B": "runtime",
+        "C": "debug",
+        "D": "analyze"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual módulo permite manipular bytecode Python?",
+      "opcoes": {
+        "A": "bytecode",
+        "B": "opcode",
+        "C": "compile",
+        "D": "dis"
+      },
+      "resposta": "D"
+    },
+    {
+      "perguntas": "Qual função compila código Python em objeto executável?",
+      "opcoes": {
+        "A": "compile()",
+        "B": "build()",
+        "C": "exec()",
+        "D": "assemble()"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual estrutura permite criar iteradores personalizados facilmente?",
+      "opcoes": {
+        "A": "generator",
+        "B": "decorator",
+        "C": "context manager",
+        "D": "descriptor"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual palavra cria um gerenciador de contexto personalizado?",
+      "opcoes": {
+        "A": "context",
+        "B": "with",
+        "C": "manage",
+        "D": "using"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Quais métodos especiais implementam um context manager?",
+      "opcoes": {
+        "A": "__enter__ e __exit__",
+        "B": "__start__ e __stop__",
+        "C": "__begin__ e __end__",
+        "D": "__open__ e __close__"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual biblioteca padrão fornece suporte para programação assíncrona?",
+      "opcoes": {
+        "A": "thread",
+        "B": "asyncio",
+        "C": "parallel",
+        "D": "awaitlib"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual objeto gerencia o loop de eventos em programação assíncrona?",
+      "opcoes": {
+        "A": "task manager",
+        "B": "event loop",
+        "C": "async core",
+        "D": "task runner"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual método permite interceptar acesso a atributos inexistentes?",
+      "opcoes": {
+        "A": "__missing__",
+        "B": "__getattr__",
+        "C": "__attribute__",
+        "D": "__access__"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual método intercepta TODOS acessos a atributos?",
+      "opcoes": {
+        "A": "__getattr__",
+        "B": "__getattribute__",
+        "C": "__access__",
+        "D": "__attr__"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual função retorna todos os atributos de um objeto?",
+      "opcoes": {
+        "A": "dir()",
+        "B": "vars()",
+        "C": "attrs()",
+        "D": "listattr()"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual função retorna o dicionário interno de atributos de um objeto?",
+      "opcoes": {
+        "A": "dir()",
+        "B": "vars()",
+        "C": "dict()",
+        "D": "attributes()"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual biblioteca permite criar metaclasses?",
+      "opcoes": {
+        "A": "types",
+        "B": "meta",
+        "C": "classlib",
+        "D": "metaclass"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual palavra define uma metaclass em Python?",
+      "opcoes": {
+        "A": "metaclass=",
+        "B": "meta=",
+        "C": "classmeta=",
+        "D": "superclass="
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual estrutura permite avaliar código em tempo de execução?",
+      "opcoes": {
+        "A": "runtime()",
+        "B": "eval()",
+        "C": "compile()",
+        "D": "interpret()"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual biblioteca permite criar servidores HTTP simples?",
+      "opcoes": {
+        "A": "http.server",
+        "B": "webserver",
+        "C": "httpd",
+        "D": "serverlib"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual biblioteca permite serialização avançada de objetos Python?",
+      "opcoes": {
+        "A": "marshal",
+        "B": "pickle",
+        "C": "serialize",
+        "D": "encode"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual biblioteca analisa sintaxe Python como árvore?",
+      "opcoes": {
+        "A": "ast",
+        "B": "syntax",
+        "C": "tree",
+        "D": "parse"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual função converte código Python em AST?",
+      "opcoes": {
+        "A": "ast.parse()",
+        "B": "ast.load()",
+        "C": "ast.compile()",
+        "D": "ast.build()"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual conceito permite adicionar métodos a classes dinamicamente?",
+      "opcoes": {
+        "A": "dynamic typing",
+        "B": "monkey patching",
+        "C": "runtime binding",
+        "D": "late linking"
+      },
+      "resposta": "B"
+    },
+    {
+      "perguntas": "Qual estrutura permite tipagem opcional em Python?",
+      "opcoes": {
+        "A": "typing module",
+        "B": "types module",
+        "C": "annotations",
+        "D": "static typing"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual objeto representa uma coroutine?",
+      "opcoes": {
+        "A": "async object",
+        "B": "task",
+        "C": "coroutine",
+        "D": "future"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual função agenda execução de coroutines no asyncio?",
+      "opcoes": {
+        "A": "asyncio.run()",
+        "B": "asyncio.execute()",
+        "C": "asyncio.start()",
+        "D": "asyncio.loop()"
+      },
+      "resposta": "A"
+    },
+    {
+      "perguntas": "Qual conceito permite múltiplas implementações para mesma interface?",
+      "opcoes": {
+        "A": "encapsulation",
+        "B": "inheritance",
+        "C": "polymorphism",
+        "D": "abstraction"
+      },
+      "resposta": "C"
+    },
+    {
+      "perguntas": "Qual biblioteca padrão permite análise de argumentos de linha de comando?",
+      "opcoes": {
+        "A": "argparse",
+        "B": "sysargs",
+        "C": "cli",
+        "D": "command"
+      },
+      "resposta": "A"
+    }
+  ]
+
+}
+

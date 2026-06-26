@@ -1,0 +1,1210 @@
+  {
+    "easy": [
+      {
+        "perguntas": "Qual palavra-chave declara uma classe em Java?",
+        "opcoes": {
+          "A": "function",
+          "B": "class",
+          "C": "object",
+          "D": "define"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual método é o ponto de entrada de um programa Java?",
+        "opcoes": {
+          "A": "start()",
+          "B": "main()",
+          "C": "run()",
+          "D": "execute()"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual tipo armazena números inteiros?",
+        "opcoes": {
+          "A": "float",
+          "B": "string",
+          "C": "int",
+          "D": "decimal"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Qual símbolo termina uma instrução em Java?",
+        "opcoes": {
+          "A": ":",
+          "B": ".",
+          "C": ";",
+          "D": ","
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Qual estrutura repete código várias vezes?",
+        "opcoes": {
+          "A": "loop",
+          "B": "for",
+          "C": "repeat",
+          "D": "iterate"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual palavra-chave cria um objeto?",
+        "opcoes": {
+          "A": "create",
+          "B": "build",
+          "C": "new",
+          "D": "object"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Qual tipo armazena verdadeiro ou falso?",
+        "opcoes": {
+          "A": "bool",
+          "B": "boolean",
+          "C": "logic",
+          "D": "binary"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual operador representa igualdade?",
+        "opcoes": {
+          "A": "=",
+          "B": "==",
+          "C": "===",
+          "D": "!="
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual palavra-chave indica herança?",
+        "opcoes": {
+          "A": "inherits",
+          "B": "extend",
+          "C": "extends",
+          "D": "implement"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Qual tipo armazena texto?",
+        "opcoes": {
+          "A": "text",
+          "B": "String",
+          "C": "char[]",
+          "D": "TextString"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual IDE é comum para Java?",
+        "opcoes": {
+          "A": "Photoshop",
+          "B": "Eclipse",
+          "C": "Blender",
+          "D": "AutoCAD"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual pacote é importado automaticamente?",
+        "opcoes": {
+          "A": "java.lang",
+          "B": "java.util",
+          "C": "java.io",
+          "D": "java.net"
+        },
+        "resposta": "A"
+      },
+      {
+        "perguntas": "Qual método imprime no console?",
+        "opcoes": {
+          "A": "print()",
+          "B": "console.log()",
+          "C": "System.out.println()",
+          "D": "write()"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Qual estrutura faz decisão?",
+        "opcoes": {
+          "A": "loop",
+          "B": "if",
+          "C": "repeat",
+          "D": "goto"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual operador significa diferente?",
+        "opcoes": {
+          "A": "<>",
+          "B": "!=",
+          "C": "!==",
+          "D": "~="
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Um método em Java precisa obrigatoriamente da palavra 'function'?",
+        "opcoes": {
+          "A": "Sim",
+          "B": "Não",
+          "C": "Às vezes",
+          "D": "Depende"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual tipo armazena números decimais?",
+        "opcoes": {
+          "A": "int",
+          "B": "float",
+          "C": "boolean",
+          "D": "char"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual palavra interrompe um loop?",
+        "opcoes": {
+          "A": "stop",
+          "B": "break",
+          "C": "end",
+          "D": "exit"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual estrutura executa enquanto condição é verdadeira?",
+        "opcoes": {
+          "A": "for",
+          "B": "if",
+          "C": "while",
+          "D": "switch"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Qual estrutura escolhe entre casos?",
+        "opcoes": {
+          "A": "if",
+          "B": "switch",
+          "C": "select",
+          "D": "case"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual tipo armazena um caractere?",
+        "opcoes": {
+          "A": "char",
+          "B": "string",
+          "C": "letter",
+          "D": "byte"
+        },
+        "resposta": "A"
+      },
+      {
+        "perguntas": "Qual palavra impede herança?",
+        "opcoes": {
+          "A": "static",
+          "B": "final",
+          "C": "const",
+          "D": "private"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual palavra representa o objeto atual?",
+        "opcoes": {
+          "A": "self",
+          "B": "this",
+          "C": "current",
+          "D": "object"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual método converte texto em inteiro?",
+        "opcoes": {
+          "A": "Integer.parseInt()",
+          "B": "int.parse()",
+          "C": "toInt()",
+          "D": "parseInteger()"
+        },
+        "resposta": "A"
+      },
+      {
+        "perguntas": "Qual coleção armazena listas?",
+        "opcoes": {
+          "A": "Hash",
+          "B": "ArrayList",
+          "C": "Map",
+          "D": "Tree"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Comentário de uma linha usa:",
+        "opcoes": {
+          "A": "#",
+          "B": "//",
+          "C": "<!--",
+          "D": "**"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Comentário multilinha começa com:",
+        "opcoes": {
+          "A": "/*",
+          "B": "//",
+          "C": "<!--",
+          "D": "##"
+        },
+        "resposta": "A"
+      },
+      {
+        "perguntas": "Qual palavra cria constante?",
+        "opcoes": {
+          "A": "const",
+          "B": "static",
+          "C": "final",
+          "D": "fixed"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Qual estrutura executa ao menos uma vez?",
+        "opcoes": {
+          "A": "while",
+          "B": "for",
+          "C": "do while",
+          "D": "loop"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Java é executado através da:",
+        "opcoes": {
+          "A": "JVM",
+          "B": "BIOS",
+          "C": "Kernel",
+          "D": "GPU"
+        },
+        "resposta": "A"
+      }
+    ],
+    "medio": [
+      {
+        "perguntas": "Qual conceito protege os dados da classe?",
+        "opcoes": {
+          "A": "Herança",
+          "B": "Encapsulamento",
+          "C": "Polimorfismo",
+          "D": "Abstração"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual palavra permite herança?",
+        "opcoes": {
+          "A": "implement",
+          "B": "extends",
+          "C": "inherits",
+          "D": "super"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual palavra implementa interface?",
+        "opcoes": {
+          "A": "extends",
+          "B": "inherits",
+          "C": "implements",
+          "D": "interface"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Qual estrutura trata exceções?",
+        "opcoes": {
+          "A": "try/catch",
+          "B": "if/else",
+          "C": "switch",
+          "D": "while"
+        },
+        "resposta": "A"
+      },
+      {
+        "perguntas": "Qual palavra lança exceção manualmente?",
+        "opcoes": {
+          "A": "catch",
+          "B": "throw",
+          "C": "throws",
+          "D": "error"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual palavra declara exceção em método?",
+        "opcoes": {
+          "A": "throw",
+          "B": "throws",
+          "C": "exception",
+          "D": "try"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual coleção não permite duplicados?",
+        "opcoes": {
+          "A": "List",
+          "B": "Set",
+          "C": "ArrayList",
+          "D": "LinkedList"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual coleção mantém ordem de inserção?",
+        "opcoes": {
+          "A": "HashSet",
+          "B": "TreeSet",
+          "C": "LinkedHashSet",
+          "D": "Set"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Qual estrutura usa chave-valor?",
+        "opcoes": {
+          "A": "List",
+          "B": "Map",
+          "C": "Set",
+          "D": "Queue"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual implementação usa hash?",
+        "opcoes": {
+          "A": "TreeMap",
+          "B": "HashMap",
+          "C": "LinkedList",
+          "D": "Stack"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual método retorna tamanho da coleção?",
+        "opcoes": {
+          "A": "length()",
+          "B": "size()",
+          "C": "count()",
+          "D": "getSize()"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual palavra impede sobrescrita?",
+        "opcoes": {
+          "A": "static",
+          "B": "final",
+          "C": "private",
+          "D": "protected"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual palavra define método sem implementação?",
+        "opcoes": {
+          "A": "static",
+          "B": "final",
+          "C": "abstract",
+          "D": "void"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Qual classe não pode ser instanciada?",
+        "opcoes": {
+          "A": "static",
+          "B": "abstract",
+          "C": "public",
+          "D": "protected"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual método converte String para double?",
+        "opcoes": {
+          "A": "Double.parseDouble()",
+          "B": "parse.double()",
+          "C": "double.parse()",
+          "D": "toDouble()"
+        },
+        "resposta": "A"
+      },
+      {
+        "perguntas": "Qual classe lê entrada do teclado?",
+        "opcoes": {
+          "A": "InputReader",
+          "B": "Scanner",
+          "C": "Reader",
+          "D": "ConsoleReader"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual pacote contém coleções?",
+        "opcoes": {
+          "A": "java.io",
+          "B": "java.net",
+          "C": "java.util",
+          "D": "java.lang"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Qual operador verifica tipo?",
+        "opcoes": {
+          "A": "typeof",
+          "B": "instanceof",
+          "C": "type",
+          "D": "is"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual método compara conteúdo?",
+        "opcoes": {
+          "A": "compare()",
+          "B": "equals()",
+          "C": "==",
+          "D": "same()"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual operador compara referências?",
+        "opcoes": {
+          "A": "equals()",
+          "B": "compare()",
+          "C": "==",
+          "D": "instanceof"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Qual classe é base de exceções?",
+        "opcoes": {
+          "A": "Throwable",
+          "B": "Error",
+          "C": "Exception",
+          "D": "Todas"
+        },
+        "resposta": "D"
+      },
+      {
+        "perguntas": "Qual exceção não precisa tratamento?",
+        "opcoes": {
+          "A": "Checked",
+          "B": "RuntimeException",
+          "C": "IOException",
+          "D": "SQLException"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual palavra chama construtor da superclasse?",
+        "opcoes": {
+          "A": "this",
+          "B": "parent",
+          "C": "super",
+          "D": "base"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Qual método é chamado ao criar objeto?",
+        "opcoes": {
+          "A": "init()",
+          "B": "constructor",
+          "C": "new()",
+          "D": "construtor"
+        },
+        "resposta": "D"
+      },
+      {
+        "perguntas": "Qual estrutura percorre coleção facilmente?",
+        "opcoes": {
+          "A": "enhanced for",
+          "B": "switch",
+          "C": "if",
+          "D": "goto"
+        },
+        "resposta": "A"
+      },
+      {
+        "perguntas": "Qual interface representa fila?",
+        "opcoes": {
+          "A": "Queue",
+          "B": "Stack",
+          "C": "List",
+          "D": "Vector"
+        },
+        "resposta": "A"
+      },
+      {
+        "perguntas": "Qual coleção funciona como pilha?",
+        "opcoes": {
+          "A": "Stack",
+          "B": "Queue",
+          "C": "List",
+          "D": "HashSet"
+        },
+        "resposta": "A"
+      },
+      {
+        "perguntas": "Qual método adiciona elemento?",
+        "opcoes": {
+          "A": "push()",
+          "B": "insert()",
+          "C": "add()",
+          "D": "put()"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Qual método remove elemento?",
+        "opcoes": {
+          "A": "delete()",
+          "B": "remove()",
+          "C": "pop()",
+          "D": "clear()"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Qual interface ordena objetos?",
+        "opcoes": {
+          "A": "Comparator",
+          "B": "Runnable",
+          "C": "Serializable",
+          "D": "Cloneable"
+        },
+        "resposta": "A"
+      }
+    ],
+    "hard": [
+      {
+        "perguntas": "Quem executa bytecode?",
+        "opcoes": {
+          "A": "JRE",
+          "B": "JVM",
+          "C": "JDK",
+          "D": "JIT"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Quem converte bytecode em código nativo?",
+        "opcoes": {
+          "A": "JVM",
+          "B": "Interpreter",
+          "C": "JIT Compiler",
+          "D": "ClassLoader"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Interface que retorna valor em thread?",
+        "opcoes": {
+          "A": "Runnable",
+          "B": "Callable",
+          "C": "Executor",
+          "D": "Thread"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Resultado de tarefa assíncrona?",
+        "opcoes": {
+          "A": "ThreadResult",
+          "B": "Future",
+          "C": "Promise",
+          "D": "TaskResult"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Pausa thread?",
+        "opcoes": {
+          "A": "wait()",
+          "B": "sleep()",
+          "C": "join()",
+          "D": "pause()"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Espera thread terminar?",
+        "opcoes": {
+          "A": "wait()",
+          "B": "sleep()",
+          "C": "join()",
+          "D": "block()"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Acorda thread?",
+        "opcoes": {
+          "A": "notify()",
+          "B": "start()",
+          "C": "resume()",
+          "D": "awake()"
+        },
+        "resposta": "A"
+      },
+      {
+        "perguntas": "Pool de threads?",
+        "opcoes": {
+          "A": "ThreadPool",
+          "B": "ExecutorService",
+          "C": "ThreadManager",
+          "D": "MultiThread"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Coleção thread-safe?",
+        "opcoes": {
+          "A": "ArrayList",
+          "B": "HashMap",
+          "C": "Vector",
+          "D": "LinkedList"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Coleção concorrente moderna?",
+        "opcoes": {
+          "A": "Hashtable",
+          "B": "ConcurrentHashMap",
+          "C": "TreeMap",
+          "D": "LinkedList"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Programação funcional no Java?",
+        "opcoes": {
+          "A": "Interfaces",
+          "B": "Lambda",
+          "C": "Generics",
+          "D": "Reflection"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Símbolo lambda?",
+        "opcoes": {
+          "A": "->",
+          "B": "=>",
+          "C": "::",
+          "D": "<>"
+        },
+        "resposta": "A"
+      },
+      {
+        "perguntas": "Criar Stream de coleção?",
+        "opcoes": {
+          "A": "toStream()",
+          "B": "stream()",
+          "C": "collect()",
+          "D": "map()"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Executar ação em cada elemento?",
+        "opcoes": {
+          "A": "map()",
+          "B": "filter()",
+          "C": "forEach()",
+          "D": "reduce()"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Transformar elementos?",
+        "opcoes": {
+          "A": "map()",
+          "B": "reduce()",
+          "C": "filter()",
+          "D": "sort()"
+        },
+        "resposta": "A"
+      },
+      {
+        "perguntas": "Evitar NullPointerException?",
+        "opcoes": {
+          "A": "Nullable",
+          "B": "Optional",
+          "C": "SafeObject",
+          "D": "NullGuard"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Optional tem valor?",
+        "opcoes": {
+          "A": "exists()",
+          "B": "hasValue()",
+          "C": "isPresent()",
+          "D": "available()"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Tipos genéricos?",
+        "opcoes": {
+          "A": "Generics",
+          "B": "Templates",
+          "C": "Casting",
+          "D": "Interfaces"
+        },
+        "resposta": "A"
+      },
+      {
+        "perguntas": "Carregar classes na JVM?",
+        "opcoes": {
+          "A": "ClassLoader",
+          "B": "Loader",
+          "C": "ByteLoader",
+          "D": "JVMClass"
+        },
+        "resposta": "A"
+      },
+      {
+        "perguntas": "Pacote de concorrência?",
+        "opcoes": {
+          "A": "java.thread",
+          "B": "java.concurrent",
+          "C": "java.util.concurrent",
+          "D": "java.multi"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Stream para coleção?",
+        "opcoes": {
+          "A": "map()",
+          "B": "collect()",
+          "C": "reduce()",
+          "D": "filter()"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Ordenação personalizada?",
+        "opcoes": {
+          "A": "Comparator",
+          "B": "Iterator",
+          "C": "Runnable",
+          "D": "Predicate"
+        },
+        "resposta": "A"
+      },
+      {
+        "perguntas": "Comparator compara?",
+        "opcoes": {
+          "A": "compare()",
+          "B": "equals()",
+          "C": "check()",
+          "D": "diff()"
+        },
+        "resposta": "A"
+      },
+      {
+        "perguntas": "Percorrer coleção?",
+        "opcoes": {
+          "A": "Iterator",
+          "B": "Scanner",
+          "C": "Reader",
+          "D": "Walker"
+        },
+        "resposta": "A"
+      },
+      {
+        "perguntas": "Variável imutável?",
+        "opcoes": {
+          "A": "const",
+          "B": "final",
+          "C": "fixed",
+          "D": "static"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Hash de objeto?",
+        "opcoes": {
+          "A": "getHash()",
+          "B": "hash()",
+          "C": "hashCode()",
+          "D": "codeHash()"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Método junto com equals?",
+        "opcoes": {
+          "A": "toString()",
+          "B": "hashCode()",
+          "C": "compare()",
+          "D": "clone()"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Anotação sobrescrita?",
+        "opcoes": {
+          "A": "@Override",
+          "B": "@Overload",
+          "C": "@Rewrite",
+          "D": "@Replace"
+        },
+        "resposta": "A"
+      },
+      {
+        "perguntas": "Anotação obsoleta?",
+        "opcoes": {
+          "A": "@Deprecated",
+          "B": "@Old",
+          "C": "@Legacy",
+          "D": "@Remove"
+        },
+        "resposta": "A"
+      },
+      {
+        "perguntas": "Stream para array?",
+        "opcoes": {
+          "A": "toList()",
+          "B": "toArray()",
+          "C": "convertArray()",
+          "D": "streamArray()"
+        },
+        "resposta": "B"
+      }
+    ],
+    "expert": [
+      {
+        "perguntas": "Memória onde objetos são armazenados?",
+        "opcoes": {
+          "A": "Stack",
+          "B": "Heap",
+          "C": "Method Area",
+          "D": "Code Cache"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Exclusão mútua entre threads?",
+        "opcoes": {
+          "A": "volatile",
+          "B": "synchronized",
+          "C": "static",
+          "D": "final"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "volatile garante?",
+        "opcoes": {
+          "A": "Atomicidade",
+          "B": "Exclusão",
+          "C": "Visibilidade",
+          "D": "Imutabilidade"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Coleção não thread-safe?",
+        "opcoes": {
+          "A": "Vector",
+          "B": "Hashtable",
+          "C": "ArrayList",
+          "D": "ConcurrentHashMap"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Interface que retorna valor em thread?",
+        "opcoes": {
+          "A": "Runnable",
+          "B": "Callable",
+          "C": "Executable",
+          "D": "Future"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Resultado de tarefa assíncrona?",
+        "opcoes": {
+          "A": "ThreadResult",
+          "B": "Future",
+          "C": "Promise",
+          "D": "AsyncTask"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Executa tarefas com pool?",
+        "opcoes": {
+          "A": "ThreadManager",
+          "B": "ExecutorService",
+          "C": "MultiThread",
+          "D": "TaskPool"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Estrutura baseada em hash?",
+        "opcoes": {
+          "A": "ArrayList",
+          "B": "HashMap",
+          "C": "TreeMap",
+          "D": "LinkedList"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Complexidade média HashMap?",
+        "opcoes": {
+          "A": "O(n)",
+          "B": "O(log n)",
+          "C": "O(1)",
+          "D": "O(n²)"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Estrutura com árvore balanceada?",
+        "opcoes": {
+          "A": "HashMap",
+          "B": "TreeMap",
+          "C": "ArrayList",
+          "D": "LinkedList"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Transformar Stream em lista?",
+        "opcoes": {
+          "A": "map()",
+          "B": "filter()",
+          "C": "collect()",
+          "D": "reduce()"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Transformar elementos Stream?",
+        "opcoes": {
+          "A": "map()",
+          "B": "reduce()",
+          "C": "filter()",
+          "D": "collect()"
+        },
+        "resposta": "A"
+      },
+      {
+        "perguntas": "Filtrar elementos Stream?",
+        "opcoes": {
+          "A": "reduce()",
+          "B": "filter()",
+          "C": "map()",
+          "D": "collect()"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Reduzir Stream?",
+        "opcoes": {
+          "A": "reduce()",
+          "B": "map()",
+          "C": "filter()",
+          "D": "collect()"
+        },
+        "resposta": "A"
+      },
+      {
+        "perguntas": "Programação funcional Java 8?",
+        "opcoes": {
+          "A": "Reflection",
+          "B": "Lambda Expressions",
+          "C": "Generics",
+          "D": "Streams"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Evitar NullPointerException funcional?",
+        "opcoes": {
+          "A": "SafeObject",
+          "B": "Optional",
+          "C": "Nullable",
+          "D": "Guard"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Optional tem valor?",
+        "opcoes": {
+          "A": "exists()",
+          "B": "hasValue()",
+          "C": "isPresent()",
+          "D": "available()"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Carregar classes dinamicamente?",
+        "opcoes": {
+          "A": "Loader",
+          "B": "ClassLoader",
+          "C": "ByteLoader",
+          "D": "JVMClass"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Hash de objeto?",
+        "opcoes": {
+          "A": "hash()",
+          "B": "getHash()",
+          "C": "hashCode()",
+          "D": "objectHash()"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Método junto com hashCode?",
+        "opcoes": {
+          "A": "compareTo()",
+          "B": "equals()",
+          "C": "toString()",
+          "D": "clone()"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Exceção obrigatória?",
+        "opcoes": {
+          "A": "RuntimeException",
+          "B": "Checked Exception",
+          "C": "Error",
+          "D": "NullPointerException"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Esperar thread terminar?",
+        "opcoes": {
+          "A": "sleep()",
+          "B": "wait()",
+          "C": "join()",
+          "D": "pause()"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Padrão uma única instância?",
+        "opcoes": {
+          "A": "Factory",
+          "B": "Singleton",
+          "C": "Adapter",
+          "D": "Builder"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Criar objetos sem expor lógica?",
+        "opcoes": {
+          "A": "Factory",
+          "B": "Singleton",
+          "C": "Decorator",
+          "D": "Strategy"
+        },
+        "resposta": "A"
+      },
+      {
+        "perguntas": "Gerenciador de dependências?",
+        "opcoes": {
+          "A": "pip",
+          "B": "npm",
+          "C": "Maven",
+          "D": "cargo"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Controlador REST Spring?",
+        "opcoes": {
+          "A": "@Service",
+          "B": "@Component",
+          "C": "@RestController",
+          "D": "@Repository"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Injeção de dependência?",
+        "opcoes": {
+          "A": "@Bind",
+          "B": "@Autowired",
+          "C": "@Injectable",
+          "D": "@Dependency"
+        },
+        "resposta": "B"
+      },
+      {
+        "perguntas": "Pacote concorrência?",
+        "opcoes": {
+          "A": "java.thread",
+          "B": "java.multi",
+          "C": "java.util.concurrent",
+          "D": "java.async"
+        },
+        "resposta": "C"
+      },
+      {
+        "perguntas": "Acordar thread?",
+        "opcoes": {
+          "A": "notify()",
+          "B": "start()",
+          "C": "resume()",
+          "D": "wake()"
+        },
+        "resposta": "A"
+      },
+      {
+        "perguntas": "Acordar todas threads?",
+        "opcoes": {
+          "A": "notifyAll()",
+          "B": "wakeAll()",
+          "C": "startAll()",
+          "D": "resumeAll()"
+        },
+        "resposta": "A"
+      }
+    ]
+  }

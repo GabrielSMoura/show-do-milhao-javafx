@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.control.Label?>
+
+<AnchorPane prefHeight="600"
+            prefWidth="800"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.example.showmilhao.controller.TelaGanhouController"
+            stylesheets="@../css/style.css">
+
+    <children>
+
+        <ImageView fitWidth="800" fitHeight="600">
+
+            <image>
+                <Image url="@../imagens/ganhou.png"/>
+            </image>
+
+        </ImageView>
+
+<!--        <Label fx:id="campoPremioFinal"-->
+<!--               layoutX="200"-->
+<!--               layoutY="200"-->
+<!--               prefWidth="400"-->
+<!--               alignment="CENTER"-->
+<!--               styleClass="premio-final"/>-->
+
+        <Label fx:id="campoChocolates"
+               layoutX="200"
+               layoutY="330"
+               prefWidth="400"
+               alignment="CENTER"
+               styleClass="premio-final"/>
+
+        <ImageView
+                layoutX="260"
+                layoutY="420"
+                fitWidth="120"
+                preserveRatio="true"
+                onMouseClicked="#voltarMenu">
+
+            <image>
+                <Image url="@../imagens/ok.png"/>
+            </image>
+
+        </ImageView>
+
+        <ImageView
+                layoutX="420"
+                layoutY="420"
+                fitWidth="120"
+                preserveRatio="true"
+                onMouseClicked="#fecharJogo">
+
+            <image>
+                <Image url="@../imagens/fechar.png"/>
+            </image>
+
+        </ImageView>
+
+    </children>
+
+</AnchorPane>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+
+<AnchorPane prefHeight="600"
+            prefWidth="800"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.example.showmilhao.controller.TelaUniversitariosController"
+            stylesheets="@../css/style.css">
+
+    <children>
+
+        <ImageView fitWidth="800" fitHeight="600">
+
+            <image>
+                <Image url="@../imagens/ajudaUniversitarios.png"/>
+            </image>
+
+        </ImageView>
+
+        <!-- DICA 1 -->
+
+        <Label fx:id="dica1"
+               layoutX="-10"
+               layoutY="70"
+               prefWidth="400"
+               alignment="CENTER"
+               style="-fx-font-size:24px; -fx-text-fill:gold;"
+               styleClass="texto-balao"/>
+
+
+
+
+        <!-- DICA 2 -->
+
+        <Label fx:id="dica2"
+               layoutX="400"
+               layoutY="70"
+               prefWidth="400"
+               alignment="CENTER"
+               style="-fx-font-size:24px; -fx-text-fill:gold;"
+               styleClass="texto-balao"/>
+
+
+
+        <!-- BOTÃO OK -->
+
+        <ImageView
+                layoutX="340"
+                layoutY="405"
+                fitWidth="120"
+                preserveRatio="true"
+                onMouseClicked="#voltarJogo">
+
+            <image>
+                <Image url="@../imagens/ok.png"/>
+            </image>
+
+        </ImageView>
+
+    </children>
+
+</AnchorPane>

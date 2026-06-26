@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+
+<AnchorPane prefHeight="600"
+            prefWidth="800"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.example.showmilhao.controller.EscolherTemaController"
+            stylesheets="@../css/style.css">
+
+    <children>
+
+        <ImageView fitWidth="800" fitHeight="600">
+            <image>
+                <Image url="@../imagens/escolherTema.png"/>
+            </image>
+        </ImageView>
+
+        <!-- Barra de escolha de tema -->
+        <ComboBox fx:id="comboTema"
+                  layoutX="265"
+                  layoutY="215"
+                  prefWidth="270"
+                  prefHeight="50"
+                  style="-fx-background-color: transparent; -fx-border-color: white; -fx-text-fill: white;"/>
+
+
+        <!-- Botão confirmar -->
+        <Button text=""
+                layoutX="315"
+                layoutY="418"
+                prefWidth="170"
+                prefHeight="50"
+                onAction="#confirmarTema"
+                style="-fx-background-color: transparent; -fx-text-fill: white;"/>
+
+    </children>
+
+</AnchorPane>

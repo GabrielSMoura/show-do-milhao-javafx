@@ -1,0 +1,143 @@
+/* ========================= */
+/* COMBOBOX FECHADO */
+/* ========================= */
+
+.combo-box {
+    -fx-background-color: #1b1f7a;
+    -fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-radius: 8;
+    -fx-border-radius: 8;
+}
+
+/* TEXTO DO COMBOBOX */
+
+.combo-box .list-cell {
+    -fx-background-color: transparent;
+    -fx-text-fill: gold;
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+}
+
+/* BOTÃO DA SETA */
+
+.combo-box .arrow-button {
+    -fx-background-color: transparent;
+}
+
+/* SETA */
+
+.combo-box .arrow {
+    -fx-background-color: transparent;
+}
+
+/* ========================= */
+/* LISTA DO COMBOBOX */
+/* ========================= */
+
+.combo-box-popup {
+    -fx-padding: 30;
+}
+
+.combo-box-popup .list-view {
+
+    -fx-background-color: transparent;
+    -fx-border-color: gold;
+    -fx-border-width: 0 2 2 2;
+    -fx-padding: 4 10 4 10;
+    -fx-translate-y: 5;
+    -fx-background-radius: 8;
+    -fx-border-radius: 0 0 8 8;
+    -fx-max-width: 230;
+}
+
+/* ITENS DA LISTA */
+
+.combo-box-popup .list-cell {
+
+    -fx-background-color: transparent;
+    -fx-text-fill: gold;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+}
+
+/* HOVER */
+
+.combo-box-popup .list-cell:hover {
+
+    -fx-background-color: rgba(255,215,0,0.2);
+
+}
+
+/* ========================= */
+/* TEXTO DO JOGO */
+/* ========================= */
+
+.texto-jogo {
+
+    -fx-text-fill: gold;
+    -fx-font-size: 22px;
+    -fx-font-weight: bold;
+    -fx-effect: dropshadow(gaussian, black, 3, 0.8, 0, 0);
+
+}
+
+.texto-dica {
+
+    -fx-text-fill: gold;
+    -fx-font-size: 22px;
+    -fx-font-weight: bold;
+    -fx-effect: dropshadow(gaussian, black, 3, 0.8, 0, 0);
+
+}
+
+/* ========================= */
+/* TEXTO DO BALAO */
+/* ========================= */
+
+.texto-balao{
+
+    -fx-text-fill: black;
+    -fx-font-size: 10px;
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+
+}
+
+/* PERGUNTA */
+
+.pergunta-jogo {
+
+    -fx-text-fill: gold;
+
+    -fx-font-size: 22px;
+
+    -fx-font-weight: bold;
+
+    -fx-effect: dropshadow(gaussian, black, 3, 0.8, 0, 0);
+
+}
+
+
+.premio-final{
+
+    -fx-text-fill: gold;
+
+    -fx-font-size: 58px;
+
+    -fx-font-weight: bold;
+
+    -fx-effect: dropshadow( gaussian , black , 10 , 0.6 , 0 , 0 );
+
+}
+
+
+.mensagem-erro{
+
+    -fx-text-fill: red;
+
+    -fx-font-size: 24px;
+
+    -fx-font-weight: bold;
+
+}

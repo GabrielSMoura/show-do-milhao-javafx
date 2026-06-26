@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.control.Button?>
+
+<AnchorPane prefHeight="600"
+            prefWidth="800"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.example.showmilhao.controller.TelaInicialController">
+
+    <children>
+
+        <!-- Imagem de fundo -->
+        <ImageView fitWidth="800" fitHeight="600">
+            <image>
+                <Image url="@../imagens/telaInicial.png"/>
+            </image>
+        </ImageView>
+
+        <!-- BOTÃO JOGAR -->
+        <Button layoutX="250"
+                layoutY="250"
+                prefWidth="300"
+                prefHeight="100"
+                onAction="#clicarJogar"
+                style="-fx-background-color: transparent;"/>
+
+        <!-- BOTÃO CONFIGURAÇÕES -->
+        <Button layoutX="220"
+                layoutY="378"
+                prefWidth="167"
+                prefHeight="40"
+                onAction="#abrirConfiguracoes"
+                style="-fx-background-color: transparent;"/>
+
+        <!-- BOTÃO CRÉDITOS -->
+        <Button layoutX="412"
+                layoutY="378"
+                prefWidth="167"
+                prefHeight="40"
+                onAction="#abrirCreditos"
+                style="-fx-background-color: transparent;"/>
+
+    </children>
+
+</AnchorPane>

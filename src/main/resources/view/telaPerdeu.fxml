@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.control.Label?>
+
+<AnchorPane prefHeight="600"
+            prefWidth="800"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.example.showmilhao.controller.TelaPerdeuController"
+            stylesheets="@../css/style.css">
+
+    <children>
+
+        <ImageView fitWidth="800"
+                   fitHeight="600"
+                   preserveRatio="false">
+
+            <image>
+                <Image url="@../imagens/perdeu1.png"/>
+            </image>
+
+        </ImageView>
+
+        <!-- PREMIO FINAL -->
+
+        <Label fx:id="campoPremioFinal"
+               layoutX="210"
+               layoutY="202"
+               prefWidth="400"
+               alignment="CENTER"
+               styleClass="premio-final"/>
+
+        <!-- CHOCOLATES GANHOS -->
+
+        <Label fx:id="campoChocolates"
+               layoutX="192"
+               layoutY="315"
+               prefWidth="400"
+               alignment="CENTER"
+               styleClass="premio-final"/>
+
+        <!-- BOTÃO VOLTAR -->
+
+        <ImageView
+                layoutX="260"
+                layoutY="430"
+                fitWidth="120"
+                preserveRatio="true"
+                pickOnBounds="true"
+                onMouseClicked="#voltarMenu">
+
+            <image>
+                <Image url="@../imagens/ok.png"/>
+            </image>
+
+        </ImageView>
+
+        <!-- BOTÃO FECHAR -->
+
+        <ImageView
+                layoutX="420"
+                layoutY="430"
+                fitWidth="120"
+                preserveRatio="true"
+                pickOnBounds="true"
+                onMouseClicked="#fecharJogo">
+
+            <image>
+                <Image url="@../imagens/fechar.png"/>
+            </image>
+
+        </ImageView>
+
+    </children>
+
+</AnchorPane>

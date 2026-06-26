@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600"
+            prefWidth="800"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.example.showmilhao.controller.TelaCreditosController">
+
+    <children>
+
+        <!-- IMAGEM DE FUNDO -->
+
+        <ImageView fitWidth="800" fitHeight="600">
+            <image>
+                <Image url="@../imagens/creditos.png"/>
+            </image>
+        </ImageView>
+
+        <!-- BOTÃO VOLTAR -->
+
+        <ImageView
+                layoutX="285"
+                layoutY="350"
+                fitWidth="230"
+                fitHeight="1000"
+                preserveRatio="true"
+                pickOnBounds="true"
+                onMouseClicked="#voltarMenu">
+
+            <image>
+                <Image url="@../imagens/voltar.png"/>
+            </image>
+
+        </ImageView>
+
+    </children>
+
+</AnchorPane>
